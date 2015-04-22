@@ -1,12 +1,12 @@
 {
   "name": "node-dol-api",
   "version": "1.0.0",
-  "description": "This is a wraper for the US Department of Labor's web based data API.",
+  "description": "This is a wrapper for the US Department of Labor's web based data API.",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "Eric Day",
   "license": "CC0 1.0 Universal",
   "dependencies": {
     "bluebird": "^2.9.24",
