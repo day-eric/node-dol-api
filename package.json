@@ -4,7 +4,7 @@
   "description": "This is a wraper for the US Department of Labor's web based data API.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "CC0 1.0 Universal",
