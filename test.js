@@ -12,7 +12,7 @@ function filter(ary){
 	return ary.map(function(item){ return item.datasetPath; });
 }
 
-
+// Get a list of all the API endpoints that are listed in the API APIMetadata endpoint.
 api.APIMetadata.APIMetadatas()
 	.then(getResults)
 	.then(filter)
